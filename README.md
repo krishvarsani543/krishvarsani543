@@ -48,23 +48,22 @@
 
 ### 📊 GitHub Analytics
 
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishvarsani543&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishvarsani543&theme=dark&hide_border=true" width="48%" />
+  <!-- Card 1: Stats Card -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=krishvarsani543&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  
+  <!-- Card 2: Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishvarsani543&theme=dark&hide_border=true" width="48%" alt="Streak Stats" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishvarsani543&layout=compact&theme=dark&hide_border=true" width="60%" />
+  <!-- Card 3: Top Languages Card -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=krishvarsani543&layout=compact&theme=dark&hide_border=true" width="60%" alt="Top Languages" />
 </div>
-
-<!-- Card 1: Main GitHub Stats -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=krishvarsani543&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-
-<!-- Card 3: Top Languages -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=krishvarsani543&layout=compact&theme=dark&hide_border=true" width="60%" alt="Top Languages" />
-
 ---
 
 ### 📬 Connect with Me
