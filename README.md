@@ -11,7 +11,7 @@
 ### 👤 About Me
 - 🎓 **Education:** 2st Year CSE Student passionate about Artificial Intelligence & Machine Learning.
 - 🚀 **Current Focus:** Deepening core concepts in ML algorithms, Data Structures, and System Design.
-- 🏋️‍♂️ **Mindset:** Discipline in fitness, discipline in code.
+- 🏋️‍♂️ **Mindset:** Discipline , Consistent In Dsa , Discipline in code.
 - 🎯 **Goal:** Seeking internship opportunities in AI/ML to solve real-world problems.
 
 ---
@@ -78,5 +78,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=<YOUR-GITHUB-USERNAME>&color=22c55e&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=<krishvarsani543>&color=22c55e&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
