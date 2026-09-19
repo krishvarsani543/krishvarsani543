@@ -59,6 +59,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishvarsani543&layout=compact&theme=dark&hide_border=true" width="60%" />
 </div>
 
+<!-- Card 1: Main GitHub Stats -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=krishvarsani543&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+
+<!-- Card 3: Top Languages -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=krishvarsani543&layout=compact&theme=dark&hide_border=true" width="60%" alt="Top Languages" />
+
 ---
 
 ### 📬 Connect with Me
