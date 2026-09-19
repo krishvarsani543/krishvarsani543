@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <h1 align="center">Hi 👋, I'm Krish Varsani</h1>
-<h3 align="center">1st Year CSE Student | AI/ML Enthusiast | Problem Solver</h3>
+<h3 align="center">2st Year CSE Student | AI/ML Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vcenter=true&width=435&lines=Living+by+Design%2C+Not+by+Default;Exploring+AI%2FML+%26+System+Architecture;Building+Scalable+Solutions" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 ---
 
 ### 👤 About Me
-- 🎓 **Education:** 1st Year CSE Student passionate about Artificial Intelligence & Machine Learning.
+- 🎓 **Education:** 2st Year CSE Student passionate about Artificial Intelligence & Machine Learning.
 - 🚀 **Current Focus:** Deepening core concepts in ML algorithms, Data Structures, and System Design.
 - 🏋️‍♂️ **Mindset:** Discipline in fitness, discipline in code.
 - 🎯 **Goal:** Seeking internship opportunities in AI/ML to solve real-world problems.
