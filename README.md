@@ -76,7 +76,6 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=<krishvarsani543>&color=22c55e&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/VISITORS-COUNT-green?style=flat-square" alt="Visitors" />
 </p>
