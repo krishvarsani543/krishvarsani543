@@ -48,14 +48,16 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<krishvarsani543>&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sy's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<krishvarsani543>&theme=dark&hide_border=true" alt="Sy's Streak Stats" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishvarsani543&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishvarsani543&theme=dark&hide_border=true" width="48%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<krishvarsani543>&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishvarsani543&layout=compact&theme=dark&hide_border=true" width="60%" />
+</div>
 
 ---
 
