@@ -163,13 +163,10 @@
 
 ---
 
-### 📈 Contribution Skyline & Activity Pulse
+### 📈 Engineering Velocity & Daily Flow
 
 <div align="center">
-  <!-- Dynamic Live Activity Graph (100% Reliable & Real-time) -->
-  <a href="https://github.com/krishvarsani543">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishvarsani543&theme=radical&color=00ff9d&line=00ff9d&point=ffffff&bg_color=0b0f19&hide_border=true&area=true" width="100%" alt="Krish's GitHub Contribution Graph" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000000,50:064e3b,100:00ff9d&height=125&section=header&text=%E2%9A%A1%20Daily%20Code%20Velocity%20%7C%20Continuous%20Execution&fontSize=20&fontColor=ffffff&desc=Architecting%20Neural%20Systems%20%E2%80%A2%201%2B%20DSA%20Problem%20Daily%20%E2%80%A2%20Zero%20Excuses&descFontSize=14&descAlignY=68" width="100%" alt="Activity Velocity Skyline" />
 </div>
 
 ---
